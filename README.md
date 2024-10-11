@@ -3,7 +3,6 @@
 Esta aplicação utiliza **Streamlit** para hospedar duas IAs que debatem temas pré-selecionados pelo usuário. O objetivo é proporcionar um ambiente interativo onde as IAs possam discutir diferentes assuntos, promovendo a curiosidade sobre Inteligência Artificial e como ela pode ser utilizada para gerar discussões e análises automatizadas.
 
 ![Interface](TELAFINAL.png)
-
 ## 🚀 Funcionalidades
 
 - **Debate entre IAs:** O usuário pode selecionar um tema e observar as IAs argumentarem sobre ele.
