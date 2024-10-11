@@ -37,7 +37,7 @@ Esta plataforma foi desenvolvida com o intuito de demonstrar o uso prático da I
     ```
 ## 📄 Licença
 
-Este projeto está licenciado sob os termos da licença MIT. Para mais informações, consulte o arquivo `LICENSE`.
+Este projeto está licenciado sob os termos da licença Apache. Para mais informações, consulte o arquivo `LICENSE`.
 
 ## 🌟 Agradecimentos
 
